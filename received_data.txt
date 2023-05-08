@@ -1,0 +1,39 @@
+Array
+(
+    [0] => Array
+        (
+            [x] => 122
+            [y] => 25
+            [pointNumber] => 1
+            [shotCount] => 4
+            [selectedDate] => 
+        )
+
+    [1] => Array
+        (
+            [x] => 200
+            [y] => 119
+            [pointNumber] => 2
+            [shotCount] => 4
+            [selectedDate] => 
+        )
+
+    [2] => Array
+        (
+            [x] => 254
+            [y] => 196
+            [pointNumber] => 3
+            [shotCount] => 4
+            [selectedDate] => 
+        )
+
+    [3] => Array
+        (
+            [x] => 352
+            [y] => 44
+            [pointNumber] => 4
+            [shotCount] => 4
+            [selectedDate] => 
+        )
+
+)
